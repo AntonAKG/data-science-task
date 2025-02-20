@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/AntonAKG/data-science-task.git
    cd your-repo
    ```
 2. Run the Python scripts in order:
@@ -47,6 +47,7 @@ pip install pandas numpy matplotlib
    python task1.py
    python task2.py
    python task3.py
+   python task4.py
    python task5.py
    ```
 3. View the generated plots and insights.
